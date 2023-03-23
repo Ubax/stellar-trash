@@ -26,6 +26,20 @@ flowchart TD
 
 **Collector application** will be mobile application used by the collectors to validate the digital stamps.
 
+### Mockups
+
+**Mockup of driver application**
+
+![Driver application mockup](./img/driver-app-mockup.jpeg)
+
+**Mockup of items listing**
+
+![Driver application mockup](./img/listing-mockup.jpeg)
+
+**Mockup of payment**
+
+![Driver application mockup](./img/payement-mockup.jpeg)
+
 ### State diagram of customer actions in the system
 
 ```mermaid
@@ -75,13 +89,13 @@ stateDiagram-v2
     state method <<choice>>
     state prompt <<choice>>
     state valid <<choice>>
-    
+
     SeesTrash: Sees trash
     Reports: Reports illegal waste
     Collects: Collects trash
     SelectsTick: Presses ✅ on tablet
     TypesNumber: Types number
-    
+
     [*] --> SeesTrash
     SeesTrash --> stamp
     stamp --> method: Has stamp
@@ -106,7 +120,7 @@ stateDiagram-v2
     Online: Finds item on online listing
     Goes: Goes to location on date listed online
     Collects: Collects item
-    
+
     [*] --> Street
     [*] --> Online
     Online --> Goes
