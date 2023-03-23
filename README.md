@@ -26,7 +26,7 @@ flowchart TD
 
 **Collector application** will be mobile application used by the collectors to validate the digital stamps.
 
-## State diagram of customer actions in the system
+### State diagram of customer actions in the system
 
 ```mermaid
 stateDiagram-v2
@@ -67,7 +67,7 @@ stateDiagram-v2
     MoneyTaken --> [*]
 ```
 
-## State diagram of trash collector actions in the system
+### State diagram of trash collector actions in the system
 
 ```mermaid
 stateDiagram-v2
@@ -94,9 +94,11 @@ stateDiagram-v2
     valid --> Collects: Number is valid
     valid --> Reports: Number is invalid
     stamp --> Reports: Doesn't have stamp
+    Collects --> [*]
+    Reports --> [*]
 ```
 
-## State diagram of used item collector actions in the system
+### State diagram of used item collector actions in the system
 
 ```mermaid
 stateDiagram-v2
