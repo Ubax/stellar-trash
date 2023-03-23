@@ -1,6 +1,6 @@
 # Stellar trash
 
-This is the main repository for our START Hack challenge. It is divided into ### sections.
+This is the main repository for our START Hack challenge. It is divided into 2 sections. First briefly introduces our code repository. The second describes our proposed solution with mockups and state diagrams of user actions.
 
 ## Code
 
@@ -20,7 +20,7 @@ flowchart TD
 
 **Calculator** is already implemented part, that can be easily embedded into any existing website. It lets users estimate the number of stamps needed for their waste in a quick and efficient way.
 
-**Payment system** will be an easy to use platform to buy digital stamps. Based on the previous calculations it will
+**Payment system** will be an easy to use platform to buy digital stamps. Based on the previous calculations it will propose number of stamps to buy. Then using convenient online payment methods it will finalize transaction and provide digital stamp - number.
 
 **Offers listing** will be a website to check all the working objects that people want to throw away. It will present the address and the date for pickup.
 
