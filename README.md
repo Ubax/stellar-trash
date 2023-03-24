@@ -1,6 +1,6 @@
 # Stellar trash
 
-This is the main repository for our START Hack challenge. It is divided into 2 sections. First briefly introduces our code repository. The second describes our proposed solution with mockups and state diagrams of user actions.
+This is the main repository for our START Hack challenge. It is divided into 2 sections. The first briefly introduces our code repository. The second describes our proposed solution with mockups and state diagrams of user actions.
 
 ## Code
 
@@ -30,15 +30,20 @@ flowchart TD
 
 **Mockup of driver application**
 
-![Driver application mockup](./img/driver-app-mockup.jpeg)
+<img src="./mockups/driver-app.jpeg" width="400"/>
+
 
 **Mockup of items listing**
 
-![Driver application mockup](./img/listing-mockup.jpeg)
+<img src="./mockups/listing.jpeg" width="400"/>
 
-**Mockup of payment**
+**Mockup of checkout**
 
-![Driver application mockup](./img/payement-mockup.jpeg)
+<img src="./mockups/checkout.jpeg" width="400"/>
+
+**Mockup of checkout with Can this item be reused checked**
+
+<img src="./mockups/checkout-with-listing.jpeg" width="400"/>
 
 ### State diagram of customer actions in the system
 
