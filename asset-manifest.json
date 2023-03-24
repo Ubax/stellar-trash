@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/stellar-trash/static/css/main.b7634517.css",
-    "main.js": "/stellar-trash/static/js/main.2840ae6c.js",
+    "main.js": "/stellar-trash/static/js/main.5e15a213.js",
     "static/media/public-sans-all-400-normal.woff": "/stellar-trash/static/media/public-sans-all-400-normal.74e7e7d8ab558dd108a1.woff",
     "static/media/public-sans-latin-400-normal.woff2": "/stellar-trash/static/media/public-sans-latin-400-normal.4758638f2eeeaf0dd6c4.woff2",
     "static/media/public-sans-latin-ext-400-normal.woff2": "/stellar-trash/static/media/public-sans-latin-ext-400-normal.cbd34e580c9965bfc3c9.woff2",
     "static/media/public-sans-vietnamese-400-normal.woff2": "/stellar-trash/static/media/public-sans-vietnamese-400-normal.4490eed5a77c4164de3d.woff2",
     "index.html": "/stellar-trash/index.html",
     "main.b7634517.css.map": "/stellar-trash/static/css/main.b7634517.css.map",
-    "main.2840ae6c.js.map": "/stellar-trash/static/js/main.2840ae6c.js.map"
+    "main.5e15a213.js.map": "/stellar-trash/static/js/main.5e15a213.js.map"
   },
   "entrypoints": [
     "static/css/main.b7634517.css",
-    "static/js/main.2840ae6c.js"
+    "static/js/main.5e15a213.js"
   ]
 }
