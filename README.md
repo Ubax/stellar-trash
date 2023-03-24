@@ -18,13 +18,13 @@ flowchart TD
     Payment --> Collector[Collector application]
 ```
 
-**Calculator** is already implemented part, that can be easily embedded into any existing website. It lets users estimate the number of stamps needed for their waste in a quick and efficient way.
+**Calculator** is the already implemented part, that can be easily embedded into any existing website. It lets users estimate the number of stamps needed for their waste in a quick and efficient way.
 
-**Payment system** will be an easy to use platform to buy digital stamps. Based on the previous calculations it will propose number of stamps to buy. Then using convenient online payment methods it will finalize transaction and provide digital stamp - number.
+**Payment system** will be an easy to use platform to buy digital stamps. It will propose number of stamps to buy, based on previous calculations. Then, using convenient online payment methods, it will finalize the transaction and provide a digital stamp number.
 
-**Offers listing** will be a website to check all the working objects that people want to throw away. It will present the address and the date for pickup.
+**Offers listing** will be a webpage to check all the usable objects that people want to throw away. It will present the address and the date for pickup.
 
-**Collector application** will be mobile application used by the collectors to validate the digital stamps.
+**Collector application** will be the mobile application used by the collectors to validate the digital stamps.
 
 ### Mockups
 
@@ -41,7 +41,7 @@ flowchart TD
 
 <img src="./mockups/checkout.jpeg" width="400"/>
 
-**Mockup of checkout with Can this item be reused checked**
+**Mockup of checkout with the "reusable" option checked**
 
 <img src="./mockups/checkout-with-listing.jpeg" width="400"/>
 
